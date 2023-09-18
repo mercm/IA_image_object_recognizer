@@ -1,6 +1,7 @@
 # IA_image_object_recognizer
 Es un modelo YOLO de IA que reconoce distintos objetos en imágenes con un pocentaje de seguridad para cada objeto. 
 He descargado el modelo YOLOv3 apoyándome en https://github.com/wimspaargaren/yolov3/blob/master/getModels.sh
+Para realizar este reconocedor de objetos me he ayudado de este tutorial https://learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/
 
 
 Las categorías que reconoce el modelo YOLOv3 son:
